@@ -1,4 +1,4 @@
-# pokeapi-js-wrapper <a href="https://pokeapi.co/api/v2/pokemon/poliwrath"><img src='https://veekun.com/dex/media/pokemon/global-link/62.png' height=50px/></a>
+# Test pokeapi-js-wrapper <a href="https://pokeapi.co/api/v2/pokemon/poliwrath"><img src='https://veekun.com/dex/media/pokemon/global-link/62.png' height=50px/></a>
 
 [![npm](https://img.shields.io/npm/v/pokeapi-js-wrapper)](https://www.npmjs.com/package/pokeapi-js-wrapper)
 [![Tests](https://github.com/PokeAPI/pokeapi-js-wrapper/actions/workflows/test.yml/badge.svg)](https://github.com/PokeAPI/pokeapi-js-wrapper/actions/workflows/test.yml)
